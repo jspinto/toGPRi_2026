@@ -148,7 +148,7 @@ Large binary outputs such as dense PLY files should stay outside normal Git hist
 
 ## Acknowledgements
 
-This rewrite is rooted in the original **toGPRi v1** by Javier Sanjurjo Pinto, developed as part of a PhD in Cultural Heritage Protection, and in the broader open-source GPR ecosystem.
+This rewrite is rooted in the original **toGPRi v1** by Javier Sanjurjo Pinto, developed as part of a Master in Cultural Heritage Protection, and in the broader open-source GPR ecosystem.
 
 Part of the recent work on local cube geometry, plan orientation correction, rotated GeoTIFF export, `pyproject.toml` packaging review and repository documentation was developed in collaboration with **Perplexity Pro**, used as a coding and documentation assistant throughout the toGPRi v2 rewrite process.
 
@@ -156,3 +156,4 @@ Part of the recent work on local cube geometry, plan orientation correction, rot
 
 ## License
 
+GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007.
