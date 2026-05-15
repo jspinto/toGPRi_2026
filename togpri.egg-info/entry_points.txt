@@ -1,0 +1,2 @@
+[console_scripts]
+togpri = togpri.gui.app:run

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: togpri
+Version: 2.0.0
+Summary: Procesamiento y visualización GPR con corrección topográfica y export GeoTIFF
+Requires-Python: >=3.11
+Requires-Dist: numpy>=1.26
+Requires-Dist: scipy>=1.12
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: PyQt6>=6.6
+Requires-Dist: rasterio>=1.3
+Requires-Dist: pyproj>=3.6
+Requires-Dist: pandas>=2.0
