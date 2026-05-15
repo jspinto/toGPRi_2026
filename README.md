@@ -9,7 +9,7 @@ The project takes inspiration from the original GNU Octave version of toGPRi, wh
 ## Context and motivation
 
 The figure below shows a representative result from the *Aquis Querquennis* Roman site (Bande, Ourense, 2016–2017), the field context that originally drove the development of toGPRi.
-From left to right and top to bottom: the surveyed area with the prospected segment marked, the toGPRi v1 interface loaded in Google Earth, a 3D point mesh generated from stacked depth slices, the georeferenced raster overlaid on the aerial photograph, and — most importantly — the real excavation result in 2017.
+From left to right and top to bottom: the surveyed area with the prospected segment marked, the toGPRi v1 interface loaded in Google Earth, a 3D point mesh generated from stacked depth slices, the georeferenced raster (toGPRi v2 --> 0.7 - 0.9 m. depth) overlaid on the aerial photograph, and — most importantly — the real excavation result in 2017.
 
 ![Aquis Querquennis context and results](togpri/docs/images/aquis_context.jpg)
 
