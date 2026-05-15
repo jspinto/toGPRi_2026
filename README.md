@@ -127,13 +127,6 @@ export_local_cube_depth_tiff(
     rotation_deg=0.0,
 )
 ```
-
----
-
-## Data and large files
-
-Large binary outputs such as dense PLY files should stay outside normal Git history or be managed with Git LFS, because GitHub rejects files larger than 100 MB. The recommended approach is to keep raw data and large outputs in a separate folder outside the repository and only track code, configuration and small reference examples.
-
 ---
 
 ## Roadmap
