@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # toGPRi v2
 
 **toGPRi v2** is a Python rewrite of the original toGPRi workflow for ground-penetrating radar (GPR) processing, visualization and georeferenced export, with a strong focus on local 3D cubes, depth slicing and GeoTIFF raster generation.
@@ -153,11 +150,9 @@ Large binary outputs such as dense PLY files should stay outside normal Git hist
 
 This rewrite is rooted in the original **toGPRi v1** by Javier Sanjurjo Pinto, developed as part of a PhD in Cultural Heritage Protection, and in the broader open-source GPR ecosystem.
 
-Part of the recent work on local cube geometry, plan orientation correction, rotated GeoTIFF export, `pyproject.toml` packaging review and repository documentation was developed in collaboration with **Perplexity**, used as a coding and documentation assistant throughout the toGPRi v2 rewrite process.
+Part of the recent work on local cube geometry, plan orientation correction, rotated GeoTIFF export, `pyproject.toml` packaging review and repository documentation was developed in collaboration with **Perplexity Pro**, used as a coding and documentation assistant throughout the toGPRi v2 rewrite process.
 
 ---
 
 ## License
 
-Add a `LICENSE` file before wider publication. Clear licensing metadata lets users and contributors know how the code can be used and shared.
->>>>>>> 32b1aef (Add final README with screenshots)
